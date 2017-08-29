@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "indicators": {"maillage":"nomMaillage","groupeSource":"description","objetVirtuel":"vignette"},
+    "mapToSIP": {"creator":"entiteResponsable","subject":"sujet",
+                 "description":"descriptionArcheologique","date":"dateProjet",
+                 "coverage":["dateArcheologique","lieuConservation","lieuDecouverte"],
+                 "fichier":"cheminFichier","identifiantDocProducteur":"createur",
+                 "compression":"compression","encodage":"encodage",
+                 "formatFichier":"formatFichier","nomFichier":"cheminFichier",
+                 "empreinteOri":"empreinteOri","noteFichier":"note","structureFichier":"structureFichier",
+                 "structureDocument":"structureDocument"
+                },
+    "fichMeta":["fichier3DGeometrie","fichier3DTexture","fichierArchive",
+                "fichierDonneesVolumiques","fichierLasergrammetrie",
+                "fichierParadonnees","fichierPhotogrammetrie"],
+    "autoCompletion":["nombreFichiers","structureDocument"]
+}
