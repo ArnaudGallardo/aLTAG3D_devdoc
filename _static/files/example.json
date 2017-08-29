@@ -1,0 +1,7 @@
+{
+  "objets": [
+    { "nom": "boîte", "format":"ply" },
+    { "nom": "statue", "format":"ply" },
+    { "nom": "cadre", "format":"dae" }
+  ]
+}
