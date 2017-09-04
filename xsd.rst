@@ -49,5 +49,5 @@ Utilisations du fichier de configuration par aLTAG3D :
 - **autoCompletion** : ensemble des boîtes pouvant être auto-complétées (hors fichiers)
 
 .. _Saxon-HE-9: http://www.saxonica.com/download/opensource.xml
-.. _ici: http://forum3d.huma-num.fr/aLTAG3D/mdacst3d.xsd
+.. _ici: http://altag3d.huma-num.fr/data/mdacst3d.xsd
 .. _XSD: http://altag3d-userdoc.readthedocs.io/fr/latest/intro.html#a-propos-du-xsd
